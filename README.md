@@ -29,4 +29,5 @@ Note - a vacation has a start and end time, but the *duration* is the important 
 If I take a vacation from friday morning through tuesday afternoon, `end - start` will be about 4 days, 
 but the duration should only be about 20 hours (of work time missed).
 
-
+You can go negative on remaining vacation time - vacations that produce a negative vacation total will warn
+the manager of such, and let him know when your balance will reach zero again.
