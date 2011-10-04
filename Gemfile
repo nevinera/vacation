@@ -6,6 +6,7 @@ gem 'thin'
 gem 'rack', '1.3.3'
 
 gem 'mysql2'
+gem 'pg'
 
 group :assets do
   gem 'sass-rails', "  ~> 3.1.0"
